@@ -1,0 +1,9 @@
+.selected {
+    background: purple;
+    color: aliceblue;
+}
+
+li {
+    cursor: pointer;
+    list-style-type: none;
+}
